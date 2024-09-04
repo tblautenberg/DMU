@@ -5,11 +5,13 @@ using System.Net.Sockets;
 using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
+using MultiThreadServer;
 
 public class ClientManager
 {
     private List<ClientWorker> workers = new List<ClientWorker>();
     private List<Message> messages = new List<Message>();
+    private List<Person> personXML = new List<Person>();
     private int port;
     private bool stop = false;
 
@@ -73,6 +75,16 @@ public class ClientManager
             messages.Add(new Message(to, message));
         }
     }
+
+    public void StoreMessage(string message)
+    {
+        lock (messages)
+        {
+            messages.Add(new Message(message));
+        }
+    }
+
+
 
     public string GetMessage(string userName)
     {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MultiThreadServer;
+using System;
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
@@ -45,6 +46,14 @@ public class ClientWorker
                         SendLine(writer, "Logged out"); // Slutter loopet - måske den også skal lukke tråden? Det kigger jeg lige på senere
                         break;
                     }
+                    else if (line.StartsWith("XML")) // XML SENDER STUFF
+                    {
+                        String XMLmsg = line.Substring(4).Trim();
+                        Person person = new Person();
+                        person.FromXML(XMLmsg);
+                        Console.WriteLine("The persons name: " + person.Name);
+                        Console.WriteLine("The persons age " + person.Age);
+                    }
                     else if (line.StartsWith("MESSAGE "))
                     {
                         string[] parts = line.Split(' ', 3);
@@ -76,6 +85,11 @@ public class ClientWorker
                     else
                     {
                         SendLine(writer, "Received: " + line);
+                    }
+
+                    if (line.StartsWith("XML"))
+                    {
+
                     }
 
                     /*

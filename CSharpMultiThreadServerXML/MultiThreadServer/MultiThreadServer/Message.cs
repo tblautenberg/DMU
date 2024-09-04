@@ -9,6 +9,12 @@
         this.message = message;
     }
 
+    public Message(string message)
+    {
+        this.message = message;
+    }
+
+
     public bool IsTo(string userName)
     {
         return to.Equals(userName, StringComparison.OrdinalIgnoreCase);

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Client2;
+using System;
 using System.IO;
 using System.Net.Sockets;
 using System.Threading;
@@ -29,18 +30,17 @@ public class Client
                 // Uendeligt loop der stoper ved EXIT
                 while (true)
                 {
-                    Console.Write("[Client] Enter command: ");
-                    inputLine = Console.ReadLine();
+                    // XML SENDER STUFF
 
-                    if (inputLine.Equals("EXIT", StringComparison.OrdinalIgnoreCase))
-                    {
-                        Console.WriteLine("[Client] Exiting...");
-                        break;
-                    }
-                    SendLine(writer, inputLine);
+                    Console.WriteLine("Write a name and age (name age)");
+                    string line = Console.ReadLine();
 
-                    string response = reader.ReadLine();
-                    Console.WriteLine("[Client] Response from server: " + response);
+
+                    string[] parts = line.Split(' ', 2);
+                    string name = parts[0];
+                    int age = int.Parse(parts[1]);
+                    Person person = new Person(name, age);
+                    SendLine(writer, "XML " + person.ToXML());
                 }
             }
         }

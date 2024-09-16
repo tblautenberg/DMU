@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|c:\\users\\tobias\\source\\repos\\textventure\\textventure\\trashmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|solutionrelative:textventure\\trashmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|c:\\users\\tobias\\source\\repos\\textventure\\textventure\\helperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|solutionrelative:textventure\\helperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|c:\\users\\tobias\\source\\repos\\textventure\\textventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|solutionrelative:textventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|c:\\users\\tobias\\source\\repos\\textventure\\textventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|solutionrelative:textventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|c:\\users\\tobias\\source\\repos\\textventure\\textventure\\bdragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|solutionrelative:textventure\\bdragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|c:\\users\\tobias\\source\\repos\\textventure\\textventure\\bdarkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|solutionrelative:textventure\\bdarkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|c:\\users\\tobias\\source\\repos\\textventure\\textventure\\bfrog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD0BB-898C-41A3-9114-46C808AED01A}|TextVenture\\TextVenture.csproj|solutionrelative:textventure\\bfrog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BFrog.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\BFrog.cs",
+              "RelativeDocumentMoniker": "TextVenture\\BFrog.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\BFrog.cs",
+              "RelativeToolTip": "TextVenture\\BFrog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:45:36Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelperClass.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\HelperClass.cs",
+              "RelativeDocumentMoniker": "TextVenture\\HelperClass.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\HelperClass.cs",
+              "RelativeToolTip": "TextVenture\\HelperClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:58:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BDarkKnight.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\BDarkKnight.cs",
+              "RelativeDocumentMoniker": "TextVenture\\BDarkKnight.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\BDarkKnight.cs",
+              "RelativeToolTip": "TextVenture\\BDarkKnight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:46:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BDragon.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\BDragon.cs",
+              "RelativeDocumentMoniker": "TextVenture\\BDragon.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\BDragon.cs",
+              "RelativeToolTip": "TextVenture\\BDragon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:45:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrashMob.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\TrashMob.cs",
+              "RelativeDocumentMoniker": "TextVenture\\TrashMob.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\TrashMob.cs",
+              "RelativeToolTip": "TextVenture\\TrashMob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:45:19.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\Player.cs",
+              "RelativeDocumentMoniker": "TextVenture\\Player.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\Player.cs",
+              "RelativeToolTip": "TextVenture\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:44:59.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\Program.cs",
+              "RelativeDocumentMoniker": "TextVenture\\Program.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\Program.cs",
+              "RelativeToolTip": "TextVenture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:44:34.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

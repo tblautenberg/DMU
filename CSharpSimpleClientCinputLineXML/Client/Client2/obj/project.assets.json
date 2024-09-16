@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\Client2\\Client2.csproj",
+      "projectUniqueName": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\Client2\\Client2.csproj",
       "projectName": "Client2",
-      "projectPath": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\Client2\\Client2.csproj",
+      "projectPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\Client2\\Client2.csproj",
       "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\Client2\\obj\\",
+      "outputPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\Client2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

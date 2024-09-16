@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\",
+  "WorkspaceRootPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpsimpleclient\\client\\client2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|solutionrelative:client2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpsimpleclientcinputlinexml\\client\\client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|solutionrelative:client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpsimpleclient\\client\\client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|solutionrelative:client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpsimpleclientcinputlinexml\\client\\client2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D80EE9-1934-4A22-89AC-E24AD905F6FD}|Client2\\Client2.csproj|solutionrelative:client2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\Client2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\Client2\\Program.cs",
               "RelativeDocumentMoniker": "Client2\\Program.cs",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\Client2\\Program.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\Client2\\Program.cs",
               "RelativeToolTip": "Client2\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:35:17.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\Client2\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\Client2\\Person.cs",
               "RelativeDocumentMoniker": "Client2\\Person.cs",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpSimpleClient\\Client\\Client2\\Person.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpSimpleClientCinputLineXML\\Client\\Client2\\Person.cs",
               "RelativeToolTip": "Client2\\Person.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA9wCUAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:48:27.589Z",
               "EditorCaption": ""

@@ -1,0 +1,14 @@
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\bin\Debug\net8.0\TextVenture.exe
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\bin\Debug\net8.0\TextVenture.deps.json
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\bin\Debug\net8.0\TextVenture.runtimeconfig.json
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\bin\Debug\net8.0\TextVenture.dll
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\bin\Debug\net8.0\TextVenture.pdb
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\TextVenture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\TextVenture.AssemblyInfoInputs.cache
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\TextVenture.AssemblyInfo.cs
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\TextVenture.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\TextVenture.dll
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\refint\TextVenture.dll
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\TextVenture.pdb
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\TextVenture.genruntimeconfig.cache
+C:\Users\Tobias\source\repos\TextVenture\TextVenture\obj\Debug\net8.0\ref\TextVenture.dll

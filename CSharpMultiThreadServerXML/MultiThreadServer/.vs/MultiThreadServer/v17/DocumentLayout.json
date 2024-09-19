@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\",
+  "WorkspaceRootPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpmultithreadserver\\multithreadserver\\multithreadserver\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpmultithreadserver\\multithreadserver\\multithreadserver\\clientmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpmultithreadserverxml\\multithreadserver\\multithreadserver\\clientmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\clientmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpmultithreadserver\\multithreadserver\\multithreadserver\\multithreadserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\multithreadserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpmultithreadserverxml\\multithreadserver\\multithreadserver\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpmultithreadserver\\multithreadserver\\multithreadserver\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpmultithreadserver\\multithreadserver\\multithreadserver\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpmultithreadserverxml\\multithreadserver\\multithreadserver\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\skoleopgaver\\dmu\\csharpmultithreadserver\\multithreadserver\\multithreadserver\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpmultithreadserverxml\\multithreadserver\\multithreadserver\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpmultithreadserverxml\\multithreadserver\\multithreadserver\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\csharpmultithreadserverxml\\multithreadserver\\multithreadserver\\multithreadserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0205AA8-B3F6-49AB-A9A9-A4641837E200}|MultiThreadServer\\MultiThreadServer.csproj|solutionrelative:multithreadserver\\multithreadserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\Person.cs",
               "RelativeDocumentMoniker": "MultiThreadServer\\Person.cs",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\Person.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\Person.cs",
               "RelativeToolTip": "MultiThreadServer\\Person.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAmwDYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:51:04.88Z",
               "EditorCaption": ""
@@ -57,66 +57,65 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\Message.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\Message.cs",
               "RelativeDocumentMoniker": "MultiThreadServer\\Message.cs",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\Message.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\Message.cs",
               "RelativeToolTip": "MultiThreadServer\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:44:19.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClientManger.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\ClientManger.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\ClientManger.cs",
               "RelativeDocumentMoniker": "MultiThreadServer\\ClientManger.cs",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\ClientManger.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\ClientManger.cs",
               "RelativeToolTip": "MultiThreadServer\\ClientManger.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAGkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:41:15.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClientWorker.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\ClientWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\ClientWorker.cs",
               "RelativeDocumentMoniker": "MultiThreadServer\\ClientWorker.cs",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\ClientWorker.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\ClientWorker.cs",
               "RelativeToolTip": "MultiThreadServer\\ClientWorker.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAABOAAAA",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAqwH8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:40:17.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\Main.cs",
               "RelativeDocumentMoniker": "MultiThreadServer\\Main.cs",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\Main.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\Main.cs",
               "RelativeToolTip": "MultiThreadServer\\Main.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:26:42.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MultiThreadServer.csproj",
-              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\MultiThreadServer.csproj",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\MultiThreadServer.csproj",
               "RelativeDocumentMoniker": "MultiThreadServer\\MultiThreadServer.csproj",
-              "ToolTip": "C:\\Users\\Tobias\\Desktop\\Skoleopgaver\\DMU\\CSharpMultiThreadServer\\MultiThreadServer\\MultiThreadServer\\MultiThreadServer.csproj",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\CSharpMultiThreadServerXML\\MultiThreadServer\\MultiThreadServer\\MultiThreadServer.csproj",
               "RelativeToolTip": "MultiThreadServer\\MultiThreadServer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T18:26:39.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T18:26:39.92Z"
             }
           ]
         }

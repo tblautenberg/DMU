@@ -5,15 +5,9 @@ using TextVenture;
 BDragon Tobias = new("Tobias", 20, 20);
 Player Krappa = new("Krappa", 29, 10, 10);
 
+Krappa.DoubleStrike();
 
-
-Tobias.DragonClaw();
-Tobias.FlameBreath();
-Krappa.DrinkHealthPot();
-Krappa.DrinkHealthPot();
-Krappa.DrinkHealthPot();
-Krappa.DrinkHealthPot();
-Krappa.DrinkHealthPot();
+Tobias.DragonAbilities.Reverse(); // Smart måde at reverse et array
 
 for (int i = 0; i < Tobias.DragonAbilities.Count; i++)
 {

@@ -8,11 +8,11 @@ namespace TextVenture
 {
     internal class HelperClass
     {
-        public static int RndNumber()
+        public static int RndNumber(int X)
         {
             Random rnd = new Random();
 
-            return rnd.Next(20);
+            return rnd.Next(X);
 
         }
     }

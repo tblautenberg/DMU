@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\TextVenture.csproj": {}
+    "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\TextVenture\\TextVenture\\TextVenture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\TextVenture.csproj": {
+    "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\TextVenture\\TextVenture\\TextVenture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\TextVenture.csproj",
+        "projectUniqueName": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\TextVenture\\TextVenture\\TextVenture.csproj",
         "projectName": "TextVenture",
-        "projectPath": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\TextVenture.csproj",
+        "projectPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\TextVenture\\TextVenture\\TextVenture.csproj",
         "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tobias\\source\\repos\\TextVenture\\TextVenture\\obj\\",
+        "outputPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\TextVenture\\TextVenture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

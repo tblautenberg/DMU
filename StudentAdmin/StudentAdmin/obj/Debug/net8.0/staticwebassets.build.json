@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cFr3u/zD1qpHsOQEosNxm3cyKdqp2akoCa4rDeMDkuo=",
+  "Source": "StudentAdmin",
+  "BasePath": "_content/StudentAdmin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudentAdmin\\wwwroot",
+      "Source": "StudentAdmin",
+      "ContentRoot": "C:\\Users\\Tobias\\source\\repos\\StudentAdmin\\StudentAdmin\\wwwroot\\",
+      "BasePath": "_content/StudentAdmin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\",
   "Documents": [
     {
@@ -33,6 +34,61 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\45244\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\birthdayinvitaionprogram\\webapplication4\\webapplication4\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
     }
   ],
   "DocumentGroupContainers": [
@@ -42,10 +98,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
+=======
+          "SelectedChildIndex": 8,
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Privacy.cshtml",
@@ -55,16 +116,126 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T08:54:56.34Z",
+=======
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T20:24:04.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T20:23:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "WebApplication4\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "WebApplication4\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-25T20:23:42.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListResponses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\ListResponses.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\ListResponses.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\ListResponses.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\ListResponses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T20:13:44.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T20:01:41.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Thanks.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Thanks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T20:09:43.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:47:23.986Z",
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
+=======
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:30:49.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\ErrorViewModel.cs",
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T08:54:53.818Z",
@@ -72,6 +243,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
@@ -79,6 +251,15 @@
               "ToolTip": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+=======
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Models\\Repository.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T08:42:37.872Z",
               "EditorCaption": ""
@@ -132,6 +313,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\_ViewImports.cshtml",
@@ -141,10 +323,35 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T08:28:13.946Z",
+=======
+              "DocumentIndex": 11,
+              "Title": "RsvpForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\RsvpForm.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\RsvpForm.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\RsvpForm.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\RsvpForm.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:56:10.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Models\\GuestResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\GuestResponse.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Models\\GuestResponse.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\GuestResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:49:28.277Z",
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Properties\\launchSettings.json",
@@ -154,6 +361,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-30T08:28:02.353Z",
+=======
+              "DocumentIndex": 9,
+              "Title": "MyView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\MyView.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\MyView.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\Views\\Home\\MyView.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\MyView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:43:10.12Z",
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
               "EditorCaption": ""
             }
           ]

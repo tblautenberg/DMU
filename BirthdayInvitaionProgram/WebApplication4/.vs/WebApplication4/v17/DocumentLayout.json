@@ -1,40 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|c:\\users\\tobias\\source\\repos\\webapplication4\\webapplication4\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE365DA4-662A-416C-BF56-0CE8B483CD5B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,115 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Thanks.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\Thanks.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Thanks.cshtml",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\Thanks.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Home\\Thanks.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T20:09:43.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T19:47:23.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:30:49.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication4\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:06:21.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Models\\Repository.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Models\\Repository.cs",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Models\\Repository.cs",
-              "RelativeToolTip": "WebApplication4\\Models\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:07:52.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RsvpForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\RsvpForm.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\RsvpForm.cshtml",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\RsvpForm.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Home\\RsvpForm.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAowCMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T19:56:10.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GuestResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Models\\GuestResponse.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Models\\GuestResponse.cs",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Models\\GuestResponse.cs",
-              "RelativeToolTip": "WebApplication4\\Models\\GuestResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:49:28.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyView.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\MyView.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\MyView.cshtml",
-              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Home\\MyView.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Home\\MyView.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T19:43:10.12Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

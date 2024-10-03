@@ -1,0 +1,42 @@
+﻿@model StudentAdminSys.Models.Student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>Create student</title>
+</head>
+<body>
+    <h5 class="bg-primary text-white text-center m-2 p-2">Create student</h5>
+    <form asp-action="CreateStudent" method="post" class="m-2">
+        <div asp-validation-summary="All"></div>
+        <input type="hidden" asp-for="StudentId" value="@Repository.GetNextStudentId()"/>
+        <div class="form-group">
+            <label asp-for="Name" class="form-label">Students name:</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="form-label">Students email:</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Education">Which education will the student be attending?</label>
+            <select asp-for="Education" class="form-control" asp-items="Html.GetEnumSelectList<StudentAdminSys.Models.Education>()">
+                <option value="">Choose an option</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="SemesterId" class="form-label">Which semester:</label>
+            <select asp-for="SemesterId"class="form-control" asp-items="Html.GetEnumSelectList<StudentAdminSys.Models.Semesters>()">
+                <option value="">Choose an option</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Create student</button>
+        <a class="btn btn-primary mt-3" asp-action="Index">Cancel</a>
+    </form>
+</body>
+</html>

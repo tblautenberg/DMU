@@ -1,0 +1,27 @@
+﻿@model StudentAdminSys.Models.Student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>Congratulations</title>
+</head>
+<body class="text-center">
+    <div>
+        <h1>Student @Model?.Name created!</h1>
+        @if (Model?.Education == StudentAdminSys.Models.Education.Multimediedesginer) {
+            @:Sorry to hear that you have gained another Multimediedesigner, but hey, at least it's a student.
+        } else {
+            @:Student @Model.Name has been created and is now attending @EnumHelper.GetEnumDisplayName(Model.Education).
+        }
+    </div>
+    <div class="mt-5">
+        <a class="btn btn-primary mt-3" asp-action="Index">Click here to return to Home</a><br />
+        <a class="btn btn-primary mt-3" asp-action="CreateStudent">Click here to create another student</a>
+    </div>
+</body>
+</html>

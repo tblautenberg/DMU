@@ -1,0 +1,44 @@
+﻿@model IEnumerable<StudentAdminSys.Models.Student>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>EAMV</title>
+</head>
+<body>
+    <div class="text-center m-2">
+        <h1> Welcome the EAMV System Administration website</h1>
+    </div>
+    <div class="text-center p-2 mt-5 mx-5">
+        <h2>Students currently attending EAMV:</h2>
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr><th>Name</th><th>Education</th><th>Semester</th><th>Actions</th>
+            </thead>
+            <tbody>
+                @foreach (Student s in Model!) {
+                    <tr>
+                        <td>@s.Name</td>
+                        <td>@s.Education</td>
+                        <td>@s.SemesterId</td>
+                        <td>
+                            <form asp-action="DeleteStudent" method="post">
+                                <input type="hidden" asp-for="@s.StudentId" />
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="text-center m-2">
+        <a class="btn btn-primary mt-3" asp-action="CreateStudent">Click here to create a student</a>
+    </div>
+</body>
+</html>

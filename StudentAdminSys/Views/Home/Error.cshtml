@@ -1,0 +1,40 @@
+﻿@model IEnumerable<StudentAdminSys.Models.Student>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Error</title>
+</head>
+<body>
+    <div class="text-center m-2">
+        <h1>Error</h1>
+        <p>An error occurred while processing your request.</p>
+    </div>
+    <div>
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr><th>Name</th><th>Education</th><th>Semester</th><th>Actions</th>
+            </thead>
+            <tbody>
+                @foreach (Student s in Model!) {
+                    <tr>
+                        <td>@s.Name</td>
+                        <td>@s.Education</td>
+                        <td>@s.SemesterId</td>
+                        <td>
+                            <form asp-action="DeleteStudent" method="post">
+                                <input type="hidden" asp-for="@s" />
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

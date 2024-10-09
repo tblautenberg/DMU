@@ -21,14 +21,15 @@
                 <tr><th>Name</th><th>Education</th><th>Semester</th><th>Actions</th>
             </thead>
             <tbody>
-                @foreach (Student s in Model!) {
+                @foreach (Student s in Model!)
+                {
                     <tr>
                         <td>@s.Name</td>
                         <td>@s.Education</td>
                         <td>@s.SemesterId</td>
                         <td>
                             <form asp-action="DeleteStudent" method="post">
-                                <input type="hidden" asp-for="@s.StudentId" />
+                                <input type="hidden" name="studentId" value="@s.StudentId" />
                                 <button type="submit" class="btn btn-danger">Delete</button>
                             </form>
                         </td>

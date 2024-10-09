@@ -1,37 +1,53 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using StudentAdminSys.Models;
 
-namespace StudentAdminSys.Controllers {
-    public class HomeController : Controller {
-        public IActionResult Index() {
+namespace StudentAdminSys.Controllers
+{
+    public class HomeController : Controller
+    {
+        public IActionResult Index()
+        {
             return View(Repository.Students);
         }
 
-        public ViewResult CreateStudent() {
+        // This method deletes the student using studentId
+        [HttpPost]
+        public IActionResult DeleteStudent(int studentId)
+        {
+            Student student = Repository.Find(studentId);
+
+            if (student != null && Repository.RemoveStudent(student))
+            {
+                return RedirectToAction("Index");  // Redirect to the Index view after deletion
+            }
+            else
+            {
+                return View("Error");
+            }
+        }
+
+        public ViewResult CreateStudent()
+        {
             return View();
         }
 
         [HttpPost]
-        public ViewResult CreateStudent(Student student) {
-            if (ModelState.IsValid) {
+        public ViewResult CreateStudent(Student student)
+        {
+            if (ModelState.IsValid)
+            {
                 Repository.AddStudent(student);
                 return View("StudentCreated", student);
-            } else {
+            }
+            else
+            {
                 return View();
             }
         }
 
-        public ViewResult StudentList() {
+        public ViewResult StudentList()
+        {
             return View(Repository.Students);
-        }
-
-        [HttpPost, ActionName("DeleteStudent")]
-        public IActionResult DeleteStudent(Student student) {
-            if (Repository.RemoveStudent(student)) {
-                return View("Index", Repository.Students);
-            } else {
-                return View("Error");
-            }
         }
     }
 }

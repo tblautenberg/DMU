@@ -1,0 +1,6 @@
+C:\Users\Tobias\Desktop\DMU\DMU\StudentAdminSys.Test\obj\Debug\net8.0\StudentAdminSys.Test.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\DMU\DMU\StudentAdminSys.Test\obj\Debug\net8.0\StudentAdminSys.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\Desktop\DMU\DMU\StudentAdminSys.Test\obj\Debug\net8.0\StudentAdminSys.Test.AssemblyInfoInputs.cache
+C:\Users\Tobias\Desktop\DMU\DMU\StudentAdminSys.Test\obj\Debug\net8.0\StudentAdminSys.Test.AssemblyInfo.cs
+C:\Users\Tobias\Desktop\DMU\DMU\StudentAdminSys.Test\obj\Debug\net8.0\StudentAdminSys.Test.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\DMU\DMU\StudentAdminSys.Test\obj\Debug\net8.0\StudentAdminSys.Test.sourcelink.json

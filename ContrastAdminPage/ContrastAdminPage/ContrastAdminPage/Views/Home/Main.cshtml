@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Main";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="bg-light">
+    <div class="container">
+        <div class="row justify-content-center" style="margin-top: 50px;">
+            <div class="col-md-6 text-center">
+                <div class="alert alert-success">
+                    <h4>You are logged in successfully!</h4>
+                    <p>Welcome back, @ViewData["Username"]!</p> <!-- Optionally, you can display the username -->
+                    <a href="@Url.Action("Login", "Home")" class="btn btn-primary">Go to Home</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

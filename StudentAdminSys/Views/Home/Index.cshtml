@@ -1,7 +1,10 @@
 ﻿@model IEnumerable<StudentAdminSys.Models.Student>
+<<<<<<< HEAD
+=======
 @{
     Layout = null;
 }
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791
 
 <!DOCTYPE html>
 <html>
@@ -12,6 +15,35 @@
 </head>
 <body>
     <div class="text-center m-2">
+<<<<<<< HEAD
+        <h3> Welcome the EAMV System Administration website.</h3>
+        <a class="btn btn-primary" asp-action="CreateStudent">Click here to create a student</a>
+
+
+        <div  class="text-center p-2">
+            <h2>Here is the list of students attending EAMV</h2>
+
+
+            <table class="table table-bordered table-striped table-sm">
+                <thead>
+                    <tr><th>Name</th><th>Education</th><th>Semester</th>
+                </thead>
+                <tbody>
+                    @foreach (StudentAdminSys.Models.Student r in Model!)
+                    {
+                        <tr>
+                            <td>@r.Name</td>
+                            <td>@r.Education</td>
+                            <td>@r.SemesterId</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+
+
+=======
         <h1> Welcome the EAMV System Administration website</h1>
     </div>
     <div class="text-center p-2 mt-5 mx-5">
@@ -40,6 +72,7 @@
     </div>
     <div class="text-center m-2">
         <a class="btn btn-primary mt-3" asp-action="CreateStudent">Click here to create a student</a>
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791
     </div>
 </body>
 </html>

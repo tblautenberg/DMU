@@ -2,13 +2,20 @@
 
 namespace StudentAdminSys.Models {
     public class Student {
+<<<<<<< HEAD
+=======
         [Required(ErrorMessage = "Student id was not read")]
         public int StudentId { get; set; }
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791
         [Required(ErrorMessage = "Please enter the student's name")]
         public string? Name { get; set; }
 
         [Required(ErrorMessage = "Please choose an education")]
+<<<<<<< HEAD
+        public int Education { get; set; }
+=======
         public Education Education { get; set; }
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791
 
         [Required(ErrorMessage = "Please choose an option")]
         public int SemesterId { get; set; }
@@ -17,6 +24,9 @@ namespace StudentAdminSys.Models {
         [EmailAddress]
         public string? Email {  get; set; }
     }
+<<<<<<< HEAD
+}
+=======
     
     public enum Education {
         Byggekoordinator,
@@ -56,3 +66,4 @@ namespace StudentAdminSys.Models {
         }
     }
 }
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791

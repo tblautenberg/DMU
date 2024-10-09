@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|c:\\users\\tobias\\desktop\\dmu\\dmu\\contrastadminpage\\contrastadminpage\\contrastadminpage\\contrastadminpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB47E9AC-2D67-4DC6-BE45-EB769B0BBE33}|ContrastAdminPage\\ContrastAdminPage.csproj|solutionrelative:contrastadminpage\\contrastadminpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Views\\Home\\Main.cshtml",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\Views\\Home\\Main.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Views\\Home\\Main.cshtml",
+              "RelativeToolTip": "ContrastAdminPage\\Views\\Home\\Main.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T20:20:01.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\appsettings.json",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\appsettings.json",
+              "RelativeToolTip": "ContrastAdminPage\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T14:03:44.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T13:31:45.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "RelativeToolTip": "ContrastAdminPage\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "ViewState": "AQIAAI4BAAAAAAAAAAAlwKwBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T13:31:43.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "ContrastAdminPage\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:20:14.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContrastAdminPage\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T11:37:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContrastAdminPage\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAA0wDMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:35:48.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContrastAdminPage.csproj",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage.csproj",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\ContrastAdminPage.csproj",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage.csproj",
+              "RelativeToolTip": "ContrastAdminPage\\ContrastAdminPage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T11:33:47.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Program.cs",
+              "RelativeDocumentMoniker": "ContrastAdminPage\\Program.cs",
+              "ToolTip": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\ContrastAdminPage\\ContrastAdminPage\\ContrastAdminPage\\Program.cs",
+              "RelativeToolTip": "ContrastAdminPage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:32:59.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

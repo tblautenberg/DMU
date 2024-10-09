@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "l8/ShilzUv/QmqMSrlDHZgp+zcuZ+nEiN2Qi4DXCcwx623Im1qtZJEIdg7K55FalWCTi/kJ1XYt1L1C0XO31KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+=======
   "dgSpecHash": "+jaKzE1OgVE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
   "expectedPackageFiles": [],
   "logs": []
 }

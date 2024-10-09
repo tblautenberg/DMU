@@ -8,23 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tobias\\.nuget\\packages\\": {},
+    "C:\\Users\\45244\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectName": "WebApplication4",
+      "projectPath": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "packagesPath": "C:\\Users\\45244\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\45244\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\obj\\",
+=======
       "projectUniqueName": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
       "projectPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Tobias\\Desktop\\DMU\\DMU\\BirthdayInvitaionProgram\\WebApplication4\\WebApplication4\\obj\\",
+>>>>>>> b2a530f10d9d35773a692d9165ba584c8a671a48
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tobias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\45244\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -75,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

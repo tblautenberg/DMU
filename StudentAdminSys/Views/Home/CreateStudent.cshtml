@@ -14,20 +14,35 @@
     <h5 class="bg-primary text-white text-center m-2 p-2">Create student</h5>
     <form asp-action="CreateStudent" method="post" class="m-2">
         <div asp-validation-summary="All"></div>
+<<<<<<< HEAD
+=======
+        <input type="hidden" asp-for="StudentId" value="@Repository.GetNextStudentId()"/>
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791
         <div class="form-group">
             <label asp-for="Name" class="form-label">Students name:</label>
             <input asp-for="Name" class="form-control" />
         </div>
         <div class="form-group">
+<<<<<<< HEAD
             <label asp-for="Education">Which education will the student be attending?</label>
             <select asp-for="Education" class="form-control">
                 <option value="">Choose an option</option>
                 <option value="1">Datamatiker</option>
                 <option value="2">Multimedie</option>
+=======
+            <label asp-for="Email" class="form-label">Students email:</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Education">Which education will the student be attending?</label>
+            <select asp-for="Education" class="form-control" asp-items="Html.GetEnumSelectList<StudentAdminSys.Models.Education>()">
+                <option value="">Choose an option</option>
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791
             </select>
         </div>
         <div class="form-group">
             <label asp-for="SemesterId" class="form-label">Which semester:</label>
+<<<<<<< HEAD
             <input asp-for="SemesterId" type="number" min="1" max="5" class="form-control" value="1" />
         </div>
         <div class="form-group">
@@ -39,4 +54,14 @@
 </body>
 
 
+=======
+            <select asp-for="SemesterId"class="form-control" asp-items="Html.GetEnumSelectList<StudentAdminSys.Models.Semesters>()">
+                <option value="">Choose an option</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Create student</button>
+        <a class="btn btn-primary mt-3" asp-action="Index">Cancel</a>
+    </form>
+</body>
+>>>>>>> b8d6ad93f106d28c774d696e444a3f7f0d9c8791
 </html>

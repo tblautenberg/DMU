@@ -9,19 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentAdmin
 build_property.RootNamespace = StudentAdmin
-build_property.ProjectDir = C:\Users\Tobias\source\repos\StudentAdmin\StudentAdmin\
+build_property.ProjectDir = C:\Users\Tobias\Desktop\DMU\DMU\StudentAdmin\StudentAdmin\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Tobias\source\repos\StudentAdmin\StudentAdmin
+build_property.MSBuildProjectDirectory = C:\Users\Tobias\Desktop\DMU\DMU\StudentAdmin\StudentAdmin
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Tobias/source/repos/StudentAdmin/StudentAdmin/Views/Home/CreateStudent.razor]
+[C:/Users/Tobias/Desktop/DMU/DMU/StudentAdmin/StudentAdmin/Views/Home/CreateStudent.razor]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVTdHVkZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tobias/source/repos/StudentAdmin/StudentAdmin/Views/_ViewImports.cshtml]
+[C:/Users/Tobias/Desktop/DMU/DMU/StudentAdmin/StudentAdmin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
